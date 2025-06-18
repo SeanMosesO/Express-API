@@ -67,7 +67,7 @@ express-api/
 API Documentation
 Base URL
 VS Code Terminal
-http://localhost:3000/api/items
+http://localhost:3000
 
 Postman example
 GET /
